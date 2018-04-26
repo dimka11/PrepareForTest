@@ -1,0 +1,25 @@
+﻿  Source.cpp
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(136): error C2804: binary 'operator <<' has too many parameters
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(136): error C2333: 'String::operator <<': error in function declaration; skipping function body
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(45): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(54): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(85): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(96): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(102): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(147): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(148): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(165): error C2440: 'return': cannot convert from 'const char' to 'std::basic_ostream<char,std::char_traits<char>>'
+  c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(165): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(169): error C2664: 'char *strupr(char *)': cannot convert argument 1 from 'const char *' to 'char *'
+  c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(169): note: Conversion loses qualifiers
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(178): error C2676: binary '<<': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(179): error C2676: binary '<<': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(180): error C2676: binary '<<': 'String' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\dima\source\repos\preparefortest\preparefortest\source.cpp(184): error C2563: mismatch in formal parameter list
